@@ -1,2 +1,2 @@
 # rosalind-assignment2
-Second set of rosalind exercises for computer science II course at Sapienza.
+Second set of Rosalind exercises for computer science II course at Sapienza.
